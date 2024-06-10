@@ -1,8 +1,10 @@
 Descrição do Projeto
+
 Este repositório contém o código do projeto Gerenciador de Atendimento Médico, desenvolvido para a disciplina de Estrutura de Dados e Análise de Algoritmos (CCA230).
 O objetivo do projeto é implementar um aplicativo para gerenciamento de serviços de saúde, utilizando diferentes estruturas de dados para realizar operações de cadastro, atendimento, pesquisa e manipulação de registros de pacientes.
 
 Funcionalidades
+ 
   Cadastro de Pacientes
     Cadastrar novo paciente: Insere um novo paciente em uma lista dinâmica encadeada, mantendo a ordem de registro (inserção no início).
     Consultar paciente cadastrado: Busca e exibe informações de um paciente específico.
